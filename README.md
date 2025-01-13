@@ -8,6 +8,7 @@ Chat GPT
 
 ## 🧐 Processo de Criação
 O conteúdo foi criado utilizando o prompt do Chat GPT.
+Arquivo Ebook Inteligência artificial.
 
 ## 🚀 Resultados
 Documento encaminhado com a apresentação
