@@ -3,7 +3,7 @@
 ## 📒 Descrição
 Ebook sobre a utilização sobre a utilização de inteligência articifical no Setor bancário.
 ## 🤖 Tecnologias Utilizadas
-IA ChatGPT
+Chat GPT
 
 ## 🧐 Processo de Criação
 O conteúdo foi criado utilizando o prompt do Chat GPT.
